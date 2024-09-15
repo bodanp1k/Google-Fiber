@@ -1,4 +1,4 @@
-# Google-Fiber
+# Google-Fiber Customer Service Calls Analysis
 A capstone project for the Google Business Intelligence Professional Certificate.
 
 This project's aim was to build an interactive [dashboard](https://public.tableau.com/app/profile/bodan.pavlovski/viz/GoogleFiber_17242243380670/Story1) for Google Fiber's customer service team to monitor and analyze repeat call trends. 
